@@ -32,11 +32,11 @@ In particular I'm interested in Natural Language Processing and my Master's thes
 ## 🚀 Featured Projects
 
 - 📌 Question Answering for PubMedQA [repo](https://github.com/AndreaArzilli/PubMedQA_NLP)
-- 📌 American Sign Language Teacher Assistant [repo]()
+- 📌 American Sign Language Teacher Assistant
 - 📌 Breast Cancer Lesions Classification and Segmentation [repo](https://github.com/AndreaArzilli/Breast_Cancer_Lesion_Classification_Segmentation)
-- 📌 Prediction of Breast Cancer Radiotherapy Side Effects [repo]()
-- 📌 Enchanred Forest Videogame [repo]()
-- 📌 Bayesian Clustering for US Cities Crimes [repo]()
+- 📌 Prediction of Breast Cancer Radiotherapy Side Effects 
+- 📌 Enchanred Forest Videogame 
+- 📌 Bayesian Clustering for US Cities Crimes
 
 ---
 
